@@ -11,9 +11,9 @@ const projects = [
     link: "https://amaci003.github.io/blog-ddw-uade/#/",
   },
   {
-    nombre: "Proyecto 2",
-    descripcion: "Pendiente de publicar en GitHub Pages",
-    link: "#",
+    nombre: "Juego Interactivo de TATETI",
+    descripcion: "Un juego de tatetí simple hecho con React",
+    link: "https://amaci003.github.io/DDW-tateti/",
   },
   {
     nombre: "Proyecto 3",
