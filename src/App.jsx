@@ -30,9 +30,24 @@ function App() {
         <h1>Abril Maci</h1>
         <p className="descripcion">
           Soy estudiante de Gestión de Personas en Organizaciones de Tecnología
-          de la Información, y trabajo como Full Stack Developer. Me gusta
-          crear soluciones tech con un toque humano ✨
+          de la Información, y trabajo como Full Stack Developer.
         </p>
+
+        <div className="botones">
+          <a
+            href="/abril-maci-cv.pdf"
+            download
+            className="cv-button"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Descargar CV
+          </a>
+          <a href="/contacto" className="contact-button">
+            Contactame
+          </a>
+        </div>
+
         <div className="social-links">
           <a
             href="https://www.linkedin.com/in/abril-maci-663179254/"
