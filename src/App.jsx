@@ -16,9 +16,9 @@ const projects = [
     link: "https://amaci003.github.io/DDW-tateti/",
   },
   {
-    nombre: "Proyecto 3",
-    descripcion: "Pendiente de publicar en GitHub Pages",
-    link: "#",
+    nombre: "Gestor de Tareas ",
+    descripcion: "Box simple que permite agregar, tachar y eliminar tareas",
+    link: "https://amaci003.github.io/DDW-Gestor-Tareas/",
   },
 ];
 
