@@ -3,6 +3,7 @@ import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import "./App.css";
 import fotoCV from "./assets/AbrilMaciFotoCV.jpg";
+import { Link } from "react-router-dom";
 
 const projects = [
   {
@@ -35,7 +36,7 @@ function App() {
 
         <div className="botones">
           <a
-            href="/abril-maci-cv.pdf"
+            href="abril-maci-cv.pdf"
             download
             className="cv-button"
             target="_blank"
@@ -43,9 +44,9 @@ function App() {
           >
             Descargar CV
           </a>
-          <a href="/contacto" className="contact-button">
+          <Link to="/contacto" className="contact-button">
             Contactame
-          </a>
+          </Link>
         </div>
 
         <div className="social-links">
