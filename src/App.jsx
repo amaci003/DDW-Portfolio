@@ -5,6 +5,7 @@ import "./App.css";
 import fotoCV from "./assets/AbrilMaciFotoCV.jpg";
 import { Link } from "react-router-dom";
 
+
 const projects = [
   {
     nombre: "Blog DDW UADE",
@@ -20,6 +21,11 @@ const projects = [
     nombre: "Gestor de Tareas ",
     descripcion: "Box simple que permite agregar, tachar y eliminar tareas",
     link: "https://amaci003.github.io/DDW-Gestor-Tareas/",
+  },
+  {
+    nombre: "Identikit-TP",
+    descripcion: "Mi blog personal para Diseño y Desarrollo Web",
+    link: "https://amaci003.github.io/DyDW-UADE/",
   },
 ];
 
