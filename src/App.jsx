@@ -24,7 +24,7 @@ const projects = [
   },
   {
     nombre: "Identikit-TP",
-    descripcion: "Mi blog personal para Diseño y Desarrollo Web",
+    descripcion: "Mi identikit para Diseño y Desarrollo Web",
     link: "https://amaci003.github.io/DyDW-UADE/",
   },
 ];
